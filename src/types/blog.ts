@@ -1,3 +1,3 @@
-function blog{
+export type blog = {
     id : Number;
 }
